@@ -28,12 +28,12 @@
 
 ## 🧩 Projects
 
-- 🔮 [Loan Status Prediction System](https://github.com/Kartheek811/loan-status-prediction)  
-  A Streamlit-based ML app that predicts loan approvals using SVM.  
+- 🔮 [Loan Status Prediction System](https://github.com/Kartheek811/loan-status-prediction)
+- A Streamlit-based ML app that predicts loan approvals using SVM. 
   👉 [Live Demo](https://loan-status-prediction-system.streamlit.app/)
 
 - 🌍 [Countries Data Fetching Web App](https://github.com/Kartheek811/Countries)
-  A responsive frontend web application built with HTML, CSS, and JavaScript that fetches real-time data from the REST Countries API.
+ A responsive frontend web application built with HTML, CSS, and JavaScript that fetches real-time data from the REST Countries API.
   👉 [Live Demo](https://kartheek811.github.io/Countries/)
 
 - ✨ *More projects coming soon...*
