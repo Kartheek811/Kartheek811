@@ -31,9 +31,9 @@
   A Streamlit-based ML app that predicts loan approvals using SVM.  
   👉 [Live Demo](https://loan-status-prediction-system.streamlit.app/)
 
-- ✨ *More projects coming soon...*
-
-- ✨ *More projects coming soon...*
+- 🌍 [Countries Data Fetching Web App](https://github.com/Kartheek811/Countries)  
+  A responsive frontend web app built with HTML, CSS, and JavaScript that fetches real-time data from the REST Countries API.  
+  👉 [Live Demo](https://countries-project-v1.netlify.app/)
 
 ---
 
