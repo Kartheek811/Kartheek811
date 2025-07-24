@@ -34,6 +34,7 @@
 - 🌍 [Countries Data Fetching Web App](https://github.com/Kartheek811/Countries)  
   A responsive frontend web app built with HTML, CSS, and JavaScript that fetches real-time data from the REST Countries API.  
   👉 [Live Demo](https://kartheek811.github.io/Countries/)
+  ⚠️ Note: The app might take a few seconds to load as it wakes from sleep (due to free hosting).
 
 ---
 
