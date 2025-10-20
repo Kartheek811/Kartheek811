@@ -7,7 +7,6 @@
 ## 🚀 About Me
 
 - 💻 Java Backend Developer | ML Enthusiast  
-- 🎯 Currently building: Loan Status Prediction (Pro Version)  
 - 🧠 Exploring advanced ML, real-time systems, and cloud deployment  
 - 🌱 Open to full-time roles, internships, and collaborations
 
